@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.iOS\\Market Application.iOS.csproj": {}
+    "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.iOS\\Market Application.iOS.csproj": {
+    "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.iOS\\Market Application.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
         "projectName": "Market Application.iOS",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.iOS\\Market Application.iOS.csproj",
+        "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.iOS\\obj\\",
+        "outputPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj": {
-                "projectPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj"
+              "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj": {
+                "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj": {
+    "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj",
         "projectName": "Market Application",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj",
+        "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\obj\\",
+        "outputPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

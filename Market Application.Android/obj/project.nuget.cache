@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NU4vsZFz+RhyCXsKFngT4ZsexQwEQNjGaC2xJuFylUHW2klF10ZpZ6zZfIKWR89Ibs6sxMBi88trVVp5KwM2qg==",
+  "dgSpecHash": "cyeLfRkn91gi+mPOo4Gz27wYDfFpcw0zrFl2b7BrOcJzTBU4tAM/MmFb4a45abXs3epg4otk7G8V9PYSHPIaYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.Android\\Market Application.Android.csproj",
+  "projectFilePath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.Android\\Market Application.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.Android\\Market Application.Android.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.Android\\Market Application.Android.csproj",
       "projectName": "Market Application.Android",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.Android\\Market Application.Android.csproj",
+      "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.Android\\Market Application.Android.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application.Android\\obj\\",
+      "outputPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj": {
-              "projectPath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj"
+            "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj": {
+              "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj"
             }
           }
         }

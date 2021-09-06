@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3hbC97JHZN73Vv0YjvO+BQcMep9tMSbv9qyeaRvDzNpnF9HtjHMSp2Z8050fpgXnODqnins0G2Ro84gEnxZTzg==",
+  "dgSpecHash": "gLZPXh3WwrUiaW/hWgWdg9RcxpF+FuvmZhAwYB/Eo4QOUrwZ3aPmV1fVx3O3xiFOPNASZiu5F+4mhYor64FBlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\source\\repos\\Market Application\\Market Application\\Market Application.csproj",
+  "projectFilePath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
