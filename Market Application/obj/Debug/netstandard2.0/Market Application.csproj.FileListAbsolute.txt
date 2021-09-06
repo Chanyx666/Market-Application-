@@ -1,0 +1,16 @@
+C:\Users\chris\source\repos\Market Application\Market Application\bin\Debug\netstandard2.0\Market Application.deps.json
+C:\Users\chris\source\repos\Market Application\Market Application\bin\Debug\netstandard2.0\Market Application.dll
+C:\Users\chris\source\repos\Market Application\Market Application\bin\Debug\netstandard2.0\ref\Market Application.dll
+C:\Users\chris\source\repos\Market Application\Market Application\bin\Debug\netstandard2.0\Market Application.pdb
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Market Application.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Views\GetStarted.xaml.g.cs
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Market Application.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Market Application.AssemblyInfo.cs
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Market Application.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Market Application.dll
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\ref\Market Application.dll
+C:\Users\chris\source\repos\Market Application\Market Application\obj\Debug\netstandard2.0\Market Application.pdb
