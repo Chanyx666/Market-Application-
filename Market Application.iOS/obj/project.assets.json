@@ -981,24 +981,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chris\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\slygenius\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
+      "projectUniqueName": "D:\\Capstone\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
       "projectName": "Market Application.iOS",
-      "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
-      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\obj\\",
+      "projectPath": "D:\\Capstone\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
+      "packagesPath": "C:\\Users\\slygenius\\.nuget\\packages\\",
+      "outputPath": "D:\\Capstone\\Market-Application-\\Market Application.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\slygenius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj": {
-              "projectPath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application\\Market Application.csproj"
+            "D:\\Capstone\\Market-Application-\\Market Application\\Market Application.csproj": {
+              "projectPath": "D:\\Capstone\\Market-Application-\\Market Application\\Market Application.csproj"
             }
           }
         }

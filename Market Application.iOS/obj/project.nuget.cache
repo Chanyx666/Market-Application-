@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eVaILGPGnKoTCP0RWU+k1wu9Ll/avJkq7eG4l52xN1VdpW7c5IY/qd49D1qneGnA3QJid1UWF9jx8feh9mnHmA==",
+  "dgSpecHash": "bMNdb2LdiKXYH5r3b3HQbdljYDI4SRjjRV/WXKwCRtbvGPoTuoBpr4Rhq1gapXl6/LlVe366BiZI9ErslxwaOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\source\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
+  "projectFilePath": "D:\\Capstone\\Market-Application-\\Market Application.iOS\\Market Application.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "C:\\Users\\slygenius\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\slygenius\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }
